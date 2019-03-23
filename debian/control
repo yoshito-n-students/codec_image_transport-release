@@ -1,0 +1,12 @@
+Source: ros-kinetic-codec-image-transport
+Section: misc
+Priority: extra
+Maintainer: Yoshito Okada <okada@rm.is.tohoku.ac.jp>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-image-transport, ros-kinetic-pluginlib, ros-kinetic-roscpp, ros-kinetic-sensor-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-codec-image-transport
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-image-transport, ros-kinetic-pluginlib, ros-kinetic-roscpp, ros-kinetic-sensor-msgs
+Description: The codec_image_transport package
