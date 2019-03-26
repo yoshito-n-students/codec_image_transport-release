@@ -2,6 +2,6 @@
 Changelog for package codec_image_transport
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.0.1 (2019-03-24)
+0.0.2 (2019-03-26)
 ------------------
 * Initial release
