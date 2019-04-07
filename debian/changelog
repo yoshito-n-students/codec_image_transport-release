@@ -1,0 +1,13 @@
+ros-melodic-codec-image-transport (0.0.4-0bionic) bionic; urgency=high
+
+  * Add system dependency to ffmpeg
+
+ -- Yoshito Okada <okada@rm.is.tohoku.ac.jp>  Sat, 06 Apr 2019 15:00:00 -0000
+
+ros-melodic-codec-image-transport (0.0.2-0bionic) bionic; urgency=high
+
+  * Initial release
+
+ -- Yoshito Okada <okada@rm.is.tohoku.ac.jp>  Mon, 25 Mar 2019 15:00:00 -0000
+
+
