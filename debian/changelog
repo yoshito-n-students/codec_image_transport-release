@@ -1,0 +1,19 @@
+ros-noetic-codec-image-transport (0.0.5-1focal) focal; urgency=high
+
+  * Port to noetic distro
+
+ -- Yoshito Okada <okada@rm.is.tohoku.ac.jp>  Wed, 27 May 2020 15:00:00 -0000
+
+ros-noetic-codec-image-transport (0.0.4-1focal) focal; urgency=high
+
+  * Add system dependency to ffmpeg
+
+ -- Yoshito Okada <okada@rm.is.tohoku.ac.jp>  Sat, 06 Apr 2019 15:00:00 -0000
+
+ros-noetic-codec-image-transport (0.0.2-1focal) focal; urgency=high
+
+  * Initial release
+
+ -- Yoshito Okada <okada@rm.is.tohoku.ac.jp>  Mon, 25 Mar 2019 15:00:00 -0000
+
+
